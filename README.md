@@ -1,19 +1,15 @@
-# Hydrus Presets, Scripts & Issue Tracker
-A collection of presets and scripts for Hydrus.
-Issues for the main Hydrus repo is also listed here https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/labels/Hydrus
-Total Collection of Supported Sites are found here: https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/wiki/0--Supported-websites
-
-Hydrus: https://github.com/hydrusnetwork/hydrus
-
-you can read more about Hydrus here: http://hydrusnetwork.github.io/hydrus/
-
-for help using these presets and scripts, take a look at our wiki: https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/wiki
-
-Alternative Source for Scripts and Presets: http://hydrus.booru.org/
+# Hydrus Network Hub
+This is a fork of Cuddlebear's original repo which contains a miscellanous assortment of information and utilities for Hydrus
+Repo is listed here https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/
+Alternative Source for Scripts and Preset is to be found at http://hydrus.booru.org/
 
 
-Social:
-* Discord live Chat: https://discord.gg/vy8CUB4 (where you find alot if not most of our community of users)
+Hydrus Network repo can be found at https://github.com/hydrusnetwork/hydrus and it's help is found at http://hydrusnetwork.github.io/hydrus/
+
+
+
+# Additional support channels
+* Discord live Chat: https://discord.gg/vy8CUB4  with a weekly talk with Devman
 * 8ch: https://8ch.net/hydrus/index.html
-* Tumblr: http://hydrus.tumblr.com/
+* Tumblr: http://hydrus.tumblr.com/ 
 * Twitter: https://twitter.com/hydrusnetwork
