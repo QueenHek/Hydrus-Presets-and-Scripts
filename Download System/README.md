@@ -1,6 +1,5 @@
-# The Download System
-The NEW Download System
-It Encompasses Parsers, URL Classes, GUG's, nGUG's and Simple Downloaders
+# Download System
+Hydrus's download system works with several intertwined services, those being parsers, URL classes, Gallery Url Generators and simple downloaders.
 
 URL Classes tells the client what the URL is and is linked directly to a Parser that will look at the URL in question for info and links.
 GUGs can generate URLs that the URL Class understands out of an example of the URL and a replace key for the query/search.
